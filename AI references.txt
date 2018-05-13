@@ -1,0 +1,14 @@
+AI references
+===========================
+
+
+https://github.com/jaara
+
+looks like a good, well explained example of A3C as well as several other tutorials. 
+
+An explanation of his A3C code is given here:
+
+https://jaromiru.com/2017/03/26/lets-make-an-a3c-implementation/ 
+
+
+===========================
