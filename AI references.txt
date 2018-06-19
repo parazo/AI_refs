@@ -12,3 +12,6 @@ https://jaromiru.com/2017/03/26/lets-make-an-a3c-implementation/
 
 
 ===========================
+
+Reviews of free courses:
+https://medium.freecodecamp.org/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0
